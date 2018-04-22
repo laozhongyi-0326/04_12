@@ -10,6 +10,14 @@ url = "https://www.douyin.com/aweme/v1/aweme/post/?count=50&user_id=93025696966"
 #
 headers = {"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Safari/537.36"}
 
+
+
+
+
+
+
+# 测试上传
+
 response = requests.get(url,headers=headers)
 res = response.content
 print res
