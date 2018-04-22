@@ -21,6 +21,11 @@ aweme_ids =['6534180318348315908']
 headers = {"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Safari/537.36"}
 
 i = 6
+
+# ceshi
+
+
+
 for aweme_id in aweme_ids:
     # i += 1
     # url = "https://www.douyin.com/aweme/v1/hot_aweme/?app_id=1128&cursor=0&count=36&parent_rid=20180411175245010008060232058BF3&aweme_id={}"
